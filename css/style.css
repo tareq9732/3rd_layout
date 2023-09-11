@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: aqua;
+}
+
+section{
+    display: flex;
+    margin: 10px;
+}
+
+.left{
+    height: 100px;
+    width: 33%;
+    text-align: center;
+    color: rgb(230, 176, 176);
+    background-color: rgb(141, 27, 27);
+}
+
+.center{
+    height: 100px;
+    width: 33%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(111, 197, 30);
+}
+
+.right{
+    height: 100px;
+    width: 34%;
+    text-align: center;
+    color: rgb(247, 223, 223);
+    background-color: rgb(240, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+.left1{
+    height: 300px;
+    width: 30%;
+    background-color: aqua;
+}
+.left_top{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+
+.left_buttom{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(179, 212, 57);
+    color: white;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+.right1{
+    height: 300px;
+    width: 70%;
+    background-color: rgb(14, 33, 202);
+}
+
+.right_top{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(194, 4, 83);
+    color: white;
+}
+
+.right_butoom{
+    display: flex;
+    height: 50%;
+    width: 98%;
+}
+
+.right_buttom_left{
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(3, 109, 26);
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.right_buttom_right{
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    background-color: rgb(226, 25, 159);
+    color: white;
+    margin-top: 10px;
+    margin-left:30px;
+}
+
+
